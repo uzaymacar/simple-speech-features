@@ -1,5 +1,4 @@
-# Simple 
-Speech Features
+# Simple Speech Features
 
 ## Introduction
 
